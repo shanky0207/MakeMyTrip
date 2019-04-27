@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="249319" started-at="2019-04-27T13:23:23Z" finished-at="2019-04-27T13:27:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="249319" started-at="2019-04-27T13:23:23Z" finished-at="2019-04-27T13:27:32Z">
+      <class name="com.makeMyTrip.tests.MakeMyTripTest">
+        <test-method status="PASS" signature="setUpForMakeMyTripPage()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="setUpForMakeMyTripPage" is-config="true" duration-ms="16210" started-at="2019-04-27T13:23:23Z" finished-at="2019-04-27T13:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForMakeMyTripPage -->
+        <test-method status="PASS" signature="getDepartureAndReturnFlightRecordTest()[pri:1, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="getDepartureAndReturnFlightRecordTest" duration-ms="50884" started-at="2019-04-27T13:23:39Z" finished-at="2019-04-27T13:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDepartureAndReturnFlightRecordTest -->
+        <test-method status="PASS" signature="setUpForMakeMyTripPage()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="setUpForMakeMyTripPage" is-config="true" duration-ms="14857" started-at="2019-04-27T13:24:30Z" finished-at="2019-04-27T13:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForMakeMyTripPage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="teardown" is-config="true" duration-ms="0" started-at="2019-04-27T13:24:30Z" finished-at="2019-04-27T13:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="getDepAndRetRecordNonStopCheckboxTest()[pri:2, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="getDepAndRetRecordNonStopCheckboxTest" duration-ms="51091" started-at="2019-04-27T13:24:45Z" finished-at="2019-04-27T13:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDepAndRetRecordNonStopCheckboxTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="teardown" is-config="true" duration-ms="0" started-at="2019-04-27T13:25:36Z" finished-at="2019-04-27T13:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUpForMakeMyTripPage()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="setUpForMakeMyTripPage" is-config="true" duration-ms="14860" started-at="2019-04-27T13:25:36Z" finished-at="2019-04-27T13:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForMakeMyTripPage -->
+        <test-method status="PASS" signature="getDepAndRetRecordOneStopCheckboxTest()[pri:3, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="getDepAndRetRecordOneStopCheckboxTest" duration-ms="50645" started-at="2019-04-27T13:25:51Z" finished-at="2019-04-27T13:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDepAndRetRecordOneStopCheckboxTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="teardown" is-config="true" duration-ms="0" started-at="2019-04-27T13:26:42Z" finished-at="2019-04-27T13:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUpForMakeMyTripPage()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="setUpForMakeMyTripPage" is-config="true" duration-ms="19823" started-at="2019-04-27T13:26:42Z" finished-at="2019-04-27T13:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForMakeMyTripPage -->
+        <test-method status="PASS" signature="verifyDepartureAndReturnPriceTest()[pri:4, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="verifyDepartureAndReturnPriceTest" duration-ms="30899" started-at="2019-04-27T13:27:01Z" finished-at="2019-04-27T13:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDepartureAndReturnPriceTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.makeMyTrip.tests.MakeMyTripTest@6fc6f14e]" name="teardown" is-config="true" duration-ms="0" started-at="2019-04-27T13:27:32Z" finished-at="2019-04-27T13:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.makeMyTrip.tests.MakeMyTripTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
